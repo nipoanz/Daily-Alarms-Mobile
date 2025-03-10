@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Daily Alarms</string>
+    <string name="app_login">Iniciar Sesión</string>
+    <string name="app_signup">Registrarse</string>
+    <string name="app_forgot_password">Olvidó Contraseña</string>
+    <string name="loading_data">cargando datos</string>
+    <string name="regresar_boton_descripcion">Regresar a la pantalla anterior</string>
 </resources>
